@@ -1,16 +1,28 @@
-### Hi there 👋
+## Sobre mim 
 
-<!--
-**Fssantos1999/Fssantos1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### 👋 Ola eu sou o Felipe tenho 23 anos e atualmente sou estudante de Análise e Desenvolvimento de Sistemas e Programação. 
+Atualmente, estou em busca de uma oportunidade na área. Caso você tenha alguma oportunidade para mim, por favor, entre em contato comigo pelo meu LinkedIn ou pelo meu Gmail. 📚💻✉️
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Tecnologias que eu sei ou estou aprendendo
+
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Fssantos1999&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fssantos1999&layout=compact)
+<div style="display: inline_block"><br/>
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black  " />
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
+</div><br/>
+
+#### Entre em contato comigo pelo meu e-mail ou, caso queira entrar no meu  LinkedIn, clique no ícone. Responderei o mais rápido possível. Obrigado por visitar o meu GitHub! 😊
+ 
+
+#### felipecunhassantos@gmail.com 
+
+<div> <br/>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipecunhasantos9/)
+
+
+
+
+
