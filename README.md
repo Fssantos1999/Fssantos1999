@@ -24,5 +24,5 @@ Atualmente, estou em busca de uma oportunidade na área. Caso você tenha alguma
 
 
 
-
+![Snake animation](https://github.com/Fssantos1999/Fssantos1999/blob/output/github-contribution-grid-snake.svg)
 
