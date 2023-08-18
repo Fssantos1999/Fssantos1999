@@ -4,7 +4,7 @@
 Atualmente, estou em busca de uma oportunidade na área. Caso você tenha alguma oportunidade para mim, por favor, entre em contato comigo pelo meu LinkedIn ou pelo meu Gmail. 📚💻✉️
 
 
- ### Tecnologias que eu sei ou estou aprendendo
+ ### Tecnologias 
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Fssantos1999&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fssantos1999&&hide_progress=false)
