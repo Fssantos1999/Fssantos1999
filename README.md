@@ -11,7 +11,7 @@ Atualmente, estou em busca de uma oportunidade na área. Caso você tenha alguma
 <div style="display: inline_block"><br/>
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black  " />
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
-<img aling="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
 </div><br/>
 
 #### Entre em contato comigo pelo meu e-mail ou, caso queira entrar no meu  LinkedIn, clique no ícone. Responderei o mais rápido possível. Obrigado por visitar o meu GitHub! 😊
