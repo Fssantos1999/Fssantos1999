@@ -1,7 +1,7 @@
 ## Sobre mim 
 
 #### 👋 Ola eu sou o Felipe tenho 24 anos e atualmente sou estudante de Análise e Desenvolvimento de Sistemas e programação. 
-Atualmente, estou em busca de uma oportunidade na área. Caso você tenha alguma oportunidade para mim, por favor, entre em contato comigo pelo meu LinkedIn ou pelo meu Gmail. 📚💻✉️
+Atualmente, estou em busca de uma oportunidade na área. Caso você tenha alguma oportunidade para mim, por favor, entre em contato comigo pelo meu Linkedin ou pelo meu Gmail. 📚💻✉️
 
 
  ### Tecnologias 
