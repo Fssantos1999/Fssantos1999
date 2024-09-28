@@ -1,38 +1,50 @@
-## Sobre mim 
+<h4 align="left">👋 Olá! Eu sou um desenvolvedor back-end júnior, apaixonado por tecnologia e sempre pronto para encarar novos desafios! Se tem uma coisa que me move (além do código, claro) é um bom café ☕. Nada como uma xícara para despertar novas ideias e resolver bugs!<br><br>Estou constantemente aprendendo e aprimorando minhas habilidades com Java, Spring e tudo mais que o desenvolvimento back-end tem a oferecer. Adoro trabalhar em equipe e contribuir para projetos criativos e eficientes. Vamos construir algo incrível juntos? 🚀</h4>
 
-#### 👋 Ola eu sou o Felipe tenho 25 anos e atualmente sou estudante de Análise e Desenvolvimento de Sistemas e programação. 
-Atualmente, estou em busca de uma oportunidade na área. Caso você tenha alguma oportunidade para mim, por favor, entre em contato comigo pelo meu Linkedin ou pelo meu Gmail. 📚💻✉️
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fssantos1999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fssantos1999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
- ### Tecnologias 
+###
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Fssantos1999&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fssantos1999&&hide_progress=false)
-<div style="display: inline_block"><br/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black  " />
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
-<img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+###
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<img align="center" alt="Mysql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+###
 
+<br clear="both">
 
-<img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWx1eGgwZTlzaXIyemVvazFmajhlNXc2NHFzMWtqdTRtdTQ0ZnkwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGbVHOAtP52ksjmXd7/giphy.gif"  />
 
+###
 
+<img src="https://raw.githubusercontent.com/Fssantos1999/Fssantos1999/output/snake.svg" alt="Snake animation" />
 
-</div><br/>
+###
 
-#### Entre em contato comigo pelo meu e-mail ou, caso queira entrar no meu  LinkedIn, clique no ícone. Responderei o mais rápido possível. Obrigado por visitar o meu GitHub! 😊
- 
+<img align="left" src="https://profile-counter.glitch.me/Fssantos1999/count.svg?"  />
 
-#### felipecunhassantos@gmail.com 
-
-<div> <br/>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipecunhasantos9/)
-
-
-
-
+###
