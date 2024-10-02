@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWx1eGgwZTlzaXIyemVvazFmajhlNXc2NHFzMWtqdTRtdTQ0ZnkwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGbVHOAtP52ksjmXd7/giphy.gif"  />
+
 
 ###
 
